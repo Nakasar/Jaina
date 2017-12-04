@@ -1,0 +1,27 @@
+{
+  "name": "jaina",
+  "version": "1.0.0",
+  "description": "A virtual home assistant for nodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nakasar/Jaina.git"
+  },
+  "keywords": [
+    "virtual-assistant",
+    "nlp",
+    "assitant"
+  ],
+  "author": "Kevin Nakasar Thizy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nakasar/Jaina/issues"
+  },
+  "homepage": "https://github.com/Nakasar/Jaina#readme",
+  "dependencies": {
+    "node-wit": "^4.3.0"
+  }
+}
